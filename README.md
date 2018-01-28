@@ -4,5 +4,6 @@ TensorFlow implementation of [Image-to-Image Translation Using Conditional Adver
 
 Here we trained the same network to translate from images with reflection to pure background images. 
 
-We obtained state of the results and some of the results can be seen here. 
-![Real Image](Results/19-input_actual.jpg) ![Predicted background](Results/19-input_result.jpg)
+Some of the results can be seen here. 
+![Real Image](Results/19-input_actual.jpg) 
+![Predicted background](Results/19-input_result.png)
